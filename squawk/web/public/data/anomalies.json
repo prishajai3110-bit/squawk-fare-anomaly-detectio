@@ -1,0 +1,1442 @@
+[
+  {
+    "date": "2025-10-05",
+    "route": "CCU-DEL",
+    "airline": "Air India",
+    "fare": 3373.31,
+    "expected_fare": 7197.60986328125,
+    "deviation_pct": -53.13,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-10-09",
+    "route": "CCU-DEL",
+    "airline": "IndiGo",
+    "fare": 12795.94,
+    "expected_fare": 6244.490234375,
+    "deviation_pct": 104.92,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-10-09",
+    "route": "HYD-BLR",
+    "airline": "Akasa Air",
+    "fare": 5469.33,
+    "expected_fare": 3055.409912109375,
+    "deviation_pct": 79.0,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-10-10",
+    "route": "CCU-DEL",
+    "airline": "IndiGo",
+    "fare": 14471.83,
+    "expected_fare": 6677.39990234375,
+    "deviation_pct": 116.73,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-10-13",
+    "route": "HYD-BLR",
+    "airline": "Akasa Air",
+    "fare": 5983.2,
+    "expected_fare": 3472.919921875,
+    "deviation_pct": 72.28,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-10-15",
+    "route": "BLR-DEL",
+    "airline": "Air India",
+    "fare": 15550.33,
+    "expected_fare": 6502.740234375,
+    "deviation_pct": 139.14,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-10-15",
+    "route": "HYD-BLR",
+    "airline": "IndiGo",
+    "fare": 7101.1,
+    "expected_fare": 3193.8798828125,
+    "deviation_pct": 122.33,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-10-16",
+    "route": "MAA-HYD",
+    "airline": "IndiGo",
+    "fare": 5217.18,
+    "expected_fare": 3293.81005859375,
+    "deviation_pct": 58.39,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-10-17",
+    "route": "CCU-DEL",
+    "airline": "Akasa Air",
+    "fare": 3872.97,
+    "expected_fare": 6724.31982421875,
+    "deviation_pct": -42.4,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-10-18",
+    "route": "CCU-DEL",
+    "airline": "Air India",
+    "fare": 19236.2,
+    "expected_fare": 8461.2900390625,
+    "deviation_pct": 127.34,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-10-18",
+    "route": "HYD-BOM",
+    "airline": "SpiceJet",
+    "fare": 2184.81,
+    "expected_fare": 4900.0,
+    "deviation_pct": -55.41,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-10-20",
+    "route": "MAA-HYD",
+    "airline": "Air India",
+    "fare": 11542.11,
+    "expected_fare": 4821.669921875,
+    "deviation_pct": 139.38,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-10-22",
+    "route": "HYD-BOM",
+    "airline": "SpiceJet",
+    "fare": 11155.84,
+    "expected_fare": 4538.31005859375,
+    "deviation_pct": 145.81,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-10-26",
+    "route": "BOM-GOI",
+    "airline": "Air India",
+    "fare": 2854.88,
+    "expected_fare": 5179.52978515625,
+    "deviation_pct": -44.88,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-10-26",
+    "route": "HYD-BLR",
+    "airline": "IndiGo",
+    "fare": 2947.63,
+    "expected_fare": 5696.5,
+    "deviation_pct": -48.26,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-10-26",
+    "route": "HYD-BOM",
+    "airline": "IndiGo",
+    "fare": 3635.83,
+    "expected_fare": 5630.9501953125,
+    "deviation_pct": -35.43,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-10-27",
+    "route": "BOM-GOI",
+    "airline": "Air India Express",
+    "fare": 9525.61,
+    "expected_fare": 4344.25,
+    "deviation_pct": 119.27,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-10-27",
+    "route": "CCU-DEL",
+    "airline": "Air India Express",
+    "fare": 17922.76,
+    "expected_fare": 6732.85986328125,
+    "deviation_pct": 166.2,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-10-28",
+    "route": "BOM-GOI",
+    "airline": "Air India Express",
+    "fare": 7681.21,
+    "expected_fare": 3793.820068359375,
+    "deviation_pct": 102.47,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-10-29",
+    "route": "BLR-DEL",
+    "airline": "Akasa Air",
+    "fare": 16249.26,
+    "expected_fare": 7068.7099609375,
+    "deviation_pct": 129.88,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-10-29",
+    "route": "HYD-BOM",
+    "airline": "Air India",
+    "fare": 9529.27,
+    "expected_fare": 5116.97998046875,
+    "deviation_pct": 86.23,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-10-31",
+    "route": "HYD-DEL",
+    "airline": "Air India",
+    "fare": 19078.95,
+    "expected_fare": 8660.740234375,
+    "deviation_pct": 120.29,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-10-31",
+    "route": "MAA-HYD",
+    "airline": "Air India",
+    "fare": 11302.74,
+    "expected_fare": 5129.58984375,
+    "deviation_pct": 120.34,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-01",
+    "route": "BOM-GOI",
+    "airline": "Akasa Air",
+    "fare": 1752.01,
+    "expected_fare": 3561.8798828125,
+    "deviation_pct": -50.81,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-01",
+    "route": "HYD-BLR",
+    "airline": "SpiceJet",
+    "fare": 7073.86,
+    "expected_fare": 4416.43017578125,
+    "deviation_pct": 60.17,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-01",
+    "route": "MAA-HYD",
+    "airline": "Air India",
+    "fare": 2171.34,
+    "expected_fare": 4805.91015625,
+    "deviation_pct": -54.82,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-02",
+    "route": "CCU-DEL",
+    "airline": "Akasa Air",
+    "fare": 4009.2,
+    "expected_fare": 6832.68017578125,
+    "deviation_pct": -41.32,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-02",
+    "route": "DEL-BOM",
+    "airline": "SpiceJet",
+    "fare": 4342.82,
+    "expected_fare": 9536.33984375,
+    "deviation_pct": -54.46,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-04",
+    "route": "HYD-BLR",
+    "airline": "Air India Express",
+    "fare": 2435.78,
+    "expected_fare": 4839.68994140625,
+    "deviation_pct": -49.67,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-04",
+    "route": "HYD-DEL",
+    "airline": "Air India",
+    "fare": 3582.22,
+    "expected_fare": 7806.240234375,
+    "deviation_pct": -54.11,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-06",
+    "route": "BOM-GOI",
+    "airline": "SpiceJet",
+    "fare": 7278.02,
+    "expected_fare": 3323.4599609375,
+    "deviation_pct": 118.99,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-07",
+    "route": "HYD-BLR",
+    "airline": "Akasa Air",
+    "fare": 7302.93,
+    "expected_fare": 4020.27001953125,
+    "deviation_pct": 81.65,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-07",
+    "route": "HYD-DEL",
+    "airline": "Air India",
+    "fare": 3072.55,
+    "expected_fare": 5924.259765625,
+    "deviation_pct": -48.14,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-11",
+    "route": "BLR-DEL",
+    "airline": "IndiGo",
+    "fare": 3144.16,
+    "expected_fare": 6692.0,
+    "deviation_pct": -53.02,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-11",
+    "route": "HYD-BLR",
+    "airline": "Akasa Air",
+    "fare": 7374.02,
+    "expected_fare": 2955.570068359375,
+    "deviation_pct": 149.5,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-11",
+    "route": "MAA-HYD",
+    "airline": "Air India",
+    "fare": 8045.65,
+    "expected_fare": 5855.580078125,
+    "deviation_pct": 37.4,
+    "severity": "Low",
+    "is_true_anomaly": false
+  },
+  {
+    "date": "2025-11-11",
+    "route": "MAA-HYD",
+    "airline": "Air India Express",
+    "fare": 6891.56,
+    "expected_fare": 4172.6298828125,
+    "deviation_pct": 65.16,
+    "severity": "Low",
+    "is_true_anomaly": false
+  },
+  {
+    "date": "2025-11-12",
+    "route": "DEL-BOM",
+    "airline": "IndiGo",
+    "fare": 20966.01,
+    "expected_fare": 10166.16015625,
+    "deviation_pct": 106.23,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-12",
+    "route": "HYD-DEL",
+    "airline": "SpiceJet",
+    "fare": 3600.54,
+    "expected_fare": 6560.81005859375,
+    "deviation_pct": -45.12,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-12",
+    "route": "MAA-HYD",
+    "airline": "Air India",
+    "fare": 9308.12,
+    "expected_fare": 4666.22021484375,
+    "deviation_pct": 99.48,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-14",
+    "route": "CCU-DEL",
+    "airline": "SpiceJet",
+    "fare": 10355.95,
+    "expected_fare": 7167.7099609375,
+    "deviation_pct": 44.48,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-15",
+    "route": "BLR-DEL",
+    "airline": "Air India Express",
+    "fare": 8822.53,
+    "expected_fare": 5190.2900390625,
+    "deviation_pct": 69.98,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-15",
+    "route": "HYD-DEL",
+    "airline": "Akasa Air",
+    "fare": 2273.61,
+    "expected_fare": 4705.14013671875,
+    "deviation_pct": -51.68,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-18",
+    "route": "DEL-BOM",
+    "airline": "Air India Express",
+    "fare": 10947.62,
+    "expected_fare": 5005.759765625,
+    "deviation_pct": 118.7,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-19",
+    "route": "MAA-HYD",
+    "airline": "IndiGo",
+    "fare": 1724.13,
+    "expected_fare": 3301.35009765625,
+    "deviation_pct": -47.78,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-22",
+    "route": "HYD-BOM",
+    "airline": "Akasa Air",
+    "fare": 8400.54,
+    "expected_fare": 4330.419921875,
+    "deviation_pct": 93.99,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-25",
+    "route": "BOM-GOI",
+    "airline": "Akasa Air",
+    "fare": 7847.85,
+    "expected_fare": 3430.3701171875,
+    "deviation_pct": 128.78,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-26",
+    "route": "MAA-HYD",
+    "airline": "IndiGo",
+    "fare": 5524.02,
+    "expected_fare": 3154.56005859375,
+    "deviation_pct": 75.11,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-27",
+    "route": "DEL-BOM",
+    "airline": "Akasa Air",
+    "fare": 9269.34,
+    "expected_fare": 5719.89990234375,
+    "deviation_pct": 62.05,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-28",
+    "route": "HYD-BLR",
+    "airline": "Air India",
+    "fare": 2005.0,
+    "expected_fare": 3905.9599609375,
+    "deviation_pct": -48.67,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-11-30",
+    "route": "MAA-HYD",
+    "airline": "Akasa Air",
+    "fare": 1812.42,
+    "expected_fare": 2909.550048828125,
+    "deviation_pct": -37.71,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-01",
+    "route": "HYD-BOM",
+    "airline": "IndiGo",
+    "fare": 12615.6,
+    "expected_fare": 5405.240234375,
+    "deviation_pct": 133.4,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-03",
+    "route": "BOM-GOI",
+    "airline": "Akasa Air",
+    "fare": 2362.75,
+    "expected_fare": 4840.56005859375,
+    "deviation_pct": -51.19,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-04",
+    "route": "HYD-BOM",
+    "airline": "SpiceJet",
+    "fare": 1881.3,
+    "expected_fare": 3888.719970703125,
+    "deviation_pct": -51.62,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-06",
+    "route": "BLR-DEL",
+    "airline": "Akasa Air",
+    "fare": 9173.89,
+    "expected_fare": 5692.7998046875,
+    "deviation_pct": 61.15,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-06",
+    "route": "BOM-GOI",
+    "airline": "Akasa Air",
+    "fare": 1178.53,
+    "expected_fare": 3320.610107421875,
+    "deviation_pct": -64.51,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-08",
+    "route": "HYD-DEL",
+    "airline": "Air India",
+    "fare": 13099.42,
+    "expected_fare": 5611.81982421875,
+    "deviation_pct": 133.43,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-09",
+    "route": "HYD-BOM",
+    "airline": "Air India",
+    "fare": 9697.13,
+    "expected_fare": 4623.93017578125,
+    "deviation_pct": 109.72,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-10",
+    "route": "CCU-DEL",
+    "airline": "Air India",
+    "fare": 14477.87,
+    "expected_fare": 8038.509765625,
+    "deviation_pct": 80.11,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-11",
+    "route": "HYD-BOM",
+    "airline": "Air India",
+    "fare": 8709.67,
+    "expected_fare": 4699.9501953125,
+    "deviation_pct": 85.31,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-11",
+    "route": "MAA-HYD",
+    "airline": "Air India Express",
+    "fare": 1753.55,
+    "expected_fare": 3704.47998046875,
+    "deviation_pct": -52.66,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-12",
+    "route": "BOM-GOI",
+    "airline": "IndiGo",
+    "fare": 2087.05,
+    "expected_fare": 3946.5,
+    "deviation_pct": -47.12,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-14",
+    "route": "BOM-GOI",
+    "airline": "Air India Express",
+    "fare": 1519.48,
+    "expected_fare": 3743.06005859375,
+    "deviation_pct": -59.41,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-15",
+    "route": "MAA-HYD",
+    "airline": "Air India Express",
+    "fare": 11462.66,
+    "expected_fare": 5008.33984375,
+    "deviation_pct": 128.87,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-16",
+    "route": "CCU-DEL",
+    "airline": "Akasa Air",
+    "fare": 10937.6,
+    "expected_fare": 6659.3701171875,
+    "deviation_pct": 64.24,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-18",
+    "route": "BOM-GOI",
+    "airline": "Air India Express",
+    "fare": 1711.28,
+    "expected_fare": 3013.35009765625,
+    "deviation_pct": -43.21,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-20",
+    "route": "HYD-BOM",
+    "airline": "IndiGo",
+    "fare": 2379.98,
+    "expected_fare": 4805.5,
+    "deviation_pct": -50.47,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-22",
+    "route": "BLR-DEL",
+    "airline": "Air India",
+    "fare": 13468.62,
+    "expected_fare": 7351.10986328125,
+    "deviation_pct": 83.22,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-23",
+    "route": "BOM-GOI",
+    "airline": "IndiGo",
+    "fare": 10223.64,
+    "expected_fare": 4895.60986328125,
+    "deviation_pct": 108.83,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-23",
+    "route": "MAA-HYD",
+    "airline": "Air India",
+    "fare": 1458.62,
+    "expected_fare": 3416.909912109375,
+    "deviation_pct": -57.31,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-24",
+    "route": "BOM-GOI",
+    "airline": "Air India Express",
+    "fare": 7144.45,
+    "expected_fare": 3112.77001953125,
+    "deviation_pct": 129.52,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-24",
+    "route": "HYD-DEL",
+    "airline": "Air India",
+    "fare": 15859.73,
+    "expected_fare": 6538.330078125,
+    "deviation_pct": 142.57,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-28",
+    "route": "CCU-DEL",
+    "airline": "SpiceJet",
+    "fare": 4291.12,
+    "expected_fare": 7368.990234375,
+    "deviation_pct": -41.77,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-30",
+    "route": "BLR-DEL",
+    "airline": "SpiceJet",
+    "fare": 2861.29,
+    "expected_fare": 6032.3798828125,
+    "deviation_pct": -52.57,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-30",
+    "route": "BOM-GOI",
+    "airline": "IndiGo",
+    "fare": 2159.04,
+    "expected_fare": 4261.68017578125,
+    "deviation_pct": -49.34,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-30",
+    "route": "HYD-BLR",
+    "airline": "Air India",
+    "fare": 9289.88,
+    "expected_fare": 3858.93994140625,
+    "deviation_pct": 140.74,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-31",
+    "route": "BLR-DEL",
+    "airline": "Air India Express",
+    "fare": 3493.12,
+    "expected_fare": 9108.2197265625,
+    "deviation_pct": -61.65,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2025-12-31",
+    "route": "BLR-DEL",
+    "airline": "SpiceJet",
+    "fare": 16183.17,
+    "expected_fare": 11558.3203125,
+    "deviation_pct": 40.01,
+    "severity": "Low",
+    "is_true_anomaly": false
+  },
+  {
+    "date": "2026-01-04",
+    "route": "DEL-BOM",
+    "airline": "Air India",
+    "fare": 3849.09,
+    "expected_fare": 7311.81982421875,
+    "deviation_pct": -47.36,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-01-07",
+    "route": "CCU-DEL",
+    "airline": "SpiceJet",
+    "fare": 12116.4,
+    "expected_fare": 5513.75,
+    "deviation_pct": 119.75,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-01-08",
+    "route": "BOM-GOI",
+    "airline": "Air India Express",
+    "fare": 1454.29,
+    "expected_fare": 3102.909912109375,
+    "deviation_pct": -53.13,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-01-11",
+    "route": "BLR-DEL",
+    "airline": "Air India Express",
+    "fare": 2644.23,
+    "expected_fare": 4646.240234375,
+    "deviation_pct": -43.09,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-01-11",
+    "route": "BLR-DEL",
+    "airline": "IndiGo",
+    "fare": 3193.15,
+    "expected_fare": 5949.2099609375,
+    "deviation_pct": -46.33,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-01-11",
+    "route": "BLR-DEL",
+    "airline": "SpiceJet",
+    "fare": 2548.95,
+    "expected_fare": 5448.85986328125,
+    "deviation_pct": -53.22,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-01-11",
+    "route": "HYD-BLR",
+    "airline": "Air India Express",
+    "fare": 2506.66,
+    "expected_fare": 4545.56005859375,
+    "deviation_pct": -44.85,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-01-12",
+    "route": "BLR-DEL",
+    "airline": "IndiGo",
+    "fare": 12339.74,
+    "expected_fare": 10627.58984375,
+    "deviation_pct": 16.11,
+    "severity": "Low",
+    "is_true_anomaly": false
+  },
+  {
+    "date": "2026-01-12",
+    "route": "CCU-DEL",
+    "airline": "SpiceJet",
+    "fare": 21093.68,
+    "expected_fare": 9523.099609375,
+    "deviation_pct": 121.5,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-01-15",
+    "route": "DEL-BOM",
+    "airline": "Air India Express",
+    "fare": 2208.1,
+    "expected_fare": 4606.39013671875,
+    "deviation_pct": -52.06,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-01-15",
+    "route": "MAA-HYD",
+    "airline": "Air India",
+    "fare": 9171.66,
+    "expected_fare": 6855.990234375,
+    "deviation_pct": 33.78,
+    "severity": "Medium",
+    "is_true_anomaly": false
+  },
+  {
+    "date": "2026-01-16",
+    "route": "DEL-BOM",
+    "airline": "Air India Express",
+    "fare": 2369.52,
+    "expected_fare": 5722.33984375,
+    "deviation_pct": -58.59,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-01-17",
+    "route": "BLR-DEL",
+    "airline": "Akasa Air",
+    "fare": 2926.71,
+    "expected_fare": 5515.509765625,
+    "deviation_pct": -46.94,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-01-17",
+    "route": "DEL-BOM",
+    "airline": "Air India",
+    "fare": 3108.65,
+    "expected_fare": 6982.39013671875,
+    "deviation_pct": -55.48,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-01-21",
+    "route": "BOM-GOI",
+    "airline": "Akasa Air",
+    "fare": 1840.32,
+    "expected_fare": 3611.110107421875,
+    "deviation_pct": -49.04,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-01-22",
+    "route": "HYD-BOM",
+    "airline": "SpiceJet",
+    "fare": 6806.78,
+    "expected_fare": 3853.449951171875,
+    "deviation_pct": 76.64,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-01-24",
+    "route": "HYD-DEL",
+    "airline": "Akasa Air",
+    "fare": 10183.08,
+    "expected_fare": 5448.31982421875,
+    "deviation_pct": 86.9,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-01-25",
+    "route": "BLR-DEL",
+    "airline": "SpiceJet",
+    "fare": 3360.59,
+    "expected_fare": 6270.10009765625,
+    "deviation_pct": -46.4,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-01-25",
+    "route": "HYD-BLR",
+    "airline": "IndiGo",
+    "fare": 2092.99,
+    "expected_fare": 3400.139892578125,
+    "deviation_pct": -38.44,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-01-25",
+    "route": "HYD-BOM",
+    "airline": "SpiceJet",
+    "fare": 7107.6,
+    "expected_fare": 3840.2099609375,
+    "deviation_pct": 85.08,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-01-28",
+    "route": "HYD-DEL",
+    "airline": "SpiceJet",
+    "fare": 2246.33,
+    "expected_fare": 4910.18994140625,
+    "deviation_pct": -54.25,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-01-29",
+    "route": "CCU-DEL",
+    "airline": "Akasa Air",
+    "fare": 3232.36,
+    "expected_fare": 5572.64990234375,
+    "deviation_pct": -42.0,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-01-31",
+    "route": "MAA-HYD",
+    "airline": "Air India",
+    "fare": 1899.16,
+    "expected_fare": 3895.570068359375,
+    "deviation_pct": -51.25,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-02-01",
+    "route": "MAA-HYD",
+    "airline": "Air India Express",
+    "fare": 5907.44,
+    "expected_fare": 2806.27001953125,
+    "deviation_pct": 110.51,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-02-02",
+    "route": "CCU-DEL",
+    "airline": "Air India",
+    "fare": 18998.57,
+    "expected_fare": 8709.7802734375,
+    "deviation_pct": 118.13,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-02-02",
+    "route": "DEL-BOM",
+    "airline": "Air India",
+    "fare": 2773.01,
+    "expected_fare": 6250.22021484375,
+    "deviation_pct": -55.63,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-02-02",
+    "route": "HYD-DEL",
+    "airline": "IndiGo",
+    "fare": 15635.96,
+    "expected_fare": 7044.83984375,
+    "deviation_pct": 121.95,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-02-06",
+    "route": "HYD-BOM",
+    "airline": "SpiceJet",
+    "fare": 9174.56,
+    "expected_fare": 3878.169921875,
+    "deviation_pct": 136.57,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-02-06",
+    "route": "HYD-DEL",
+    "airline": "SpiceJet",
+    "fare": 11996.46,
+    "expected_fare": 6203.3701171875,
+    "deviation_pct": 93.39,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-02-07",
+    "route": "BOM-GOI",
+    "airline": "Akasa Air",
+    "fare": 7447.48,
+    "expected_fare": 3805.679931640625,
+    "deviation_pct": 95.69,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-02-12",
+    "route": "BOM-GOI",
+    "airline": "SpiceJet",
+    "fare": 6192.19,
+    "expected_fare": 3567.830078125,
+    "deviation_pct": 73.56,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-02-12",
+    "route": "DEL-BOM",
+    "airline": "IndiGo",
+    "fare": 2760.98,
+    "expected_fare": 5201.68994140625,
+    "deviation_pct": -46.92,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-02-14",
+    "route": "HYD-BOM",
+    "airline": "IndiGo",
+    "fare": 8307.48,
+    "expected_fare": 4768.919921875,
+    "deviation_pct": 74.2,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-02-15",
+    "route": "CCU-DEL",
+    "airline": "IndiGo",
+    "fare": 4747.9,
+    "expected_fare": 10318.6796875,
+    "deviation_pct": -53.99,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-02-15",
+    "route": "DEL-BOM",
+    "airline": "Air India Express",
+    "fare": 12729.1,
+    "expected_fare": 5884.10986328125,
+    "deviation_pct": 116.33,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-02-18",
+    "route": "CCU-DEL",
+    "airline": "Air India",
+    "fare": 3936.2,
+    "expected_fare": 7224.10009765625,
+    "deviation_pct": -45.51,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-02-19",
+    "route": "HYD-DEL",
+    "airline": "Air India",
+    "fare": 13345.87,
+    "expected_fare": 6536.27978515625,
+    "deviation_pct": 104.18,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-02-22",
+    "route": "CCU-DEL",
+    "airline": "Akasa Air",
+    "fare": 13807.36,
+    "expected_fare": 10231.7998046875,
+    "deviation_pct": 34.95,
+    "severity": "Low",
+    "is_true_anomaly": false
+  },
+  {
+    "date": "2026-02-24",
+    "route": "HYD-BOM",
+    "airline": "Air India",
+    "fare": 2296.93,
+    "expected_fare": 4700.16015625,
+    "deviation_pct": -51.13,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-02-25",
+    "route": "BOM-GOI",
+    "airline": "SpiceJet",
+    "fare": 2403.18,
+    "expected_fare": 4014.919921875,
+    "deviation_pct": -40.14,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-02-28",
+    "route": "MAA-HYD",
+    "airline": "SpiceJet",
+    "fare": 7272.47,
+    "expected_fare": 3280.340087890625,
+    "deviation_pct": 121.7,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-03-01",
+    "route": "HYD-BLR",
+    "airline": "IndiGo",
+    "fare": 1862.69,
+    "expected_fare": 3285.31005859375,
+    "deviation_pct": -43.3,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-03-01",
+    "route": "HYD-BOM",
+    "airline": "IndiGo",
+    "fare": 2928.15,
+    "expected_fare": 4885.419921875,
+    "deviation_pct": -40.06,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-03-02",
+    "route": "CCU-DEL",
+    "airline": "IndiGo",
+    "fare": 5499.53,
+    "expected_fare": 10880.8603515625,
+    "deviation_pct": -49.46,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-03-02",
+    "route": "DEL-BOM",
+    "airline": "Air India",
+    "fare": 3391.01,
+    "expected_fare": 5773.10009765625,
+    "deviation_pct": -41.26,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-03-02",
+    "route": "HYD-DEL",
+    "airline": "Akasa Air",
+    "fare": 11239.2,
+    "expected_fare": 8505.1796875,
+    "deviation_pct": 32.15,
+    "severity": "Low",
+    "is_true_anomaly": false
+  },
+  {
+    "date": "2026-03-06",
+    "route": "CCU-DEL",
+    "airline": "Air India",
+    "fare": 12865.62,
+    "expected_fare": 7177.89013671875,
+    "deviation_pct": 79.24,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-03-06",
+    "route": "HYD-DEL",
+    "airline": "SpiceJet",
+    "fare": 10951.08,
+    "expected_fare": 5056.240234375,
+    "deviation_pct": 116.59,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-03-07",
+    "route": "HYD-DEL",
+    "airline": "Air India",
+    "fare": 3064.29,
+    "expected_fare": 5937.47021484375,
+    "deviation_pct": -48.39,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-03-08",
+    "route": "HYD-BLR",
+    "airline": "Air India Express",
+    "fare": 6035.9,
+    "expected_fare": 3040.89990234375,
+    "deviation_pct": 98.49,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-03-08",
+    "route": "HYD-BOM",
+    "airline": "Air India",
+    "fare": 1595.03,
+    "expected_fare": 4344.81982421875,
+    "deviation_pct": -63.29,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-03-09",
+    "route": "BOM-GOI",
+    "airline": "Air India",
+    "fare": 1993.66,
+    "expected_fare": 4210.31982421875,
+    "deviation_pct": -52.65,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-03-10",
+    "route": "HYD-BLR",
+    "airline": "Akasa Air",
+    "fare": 7243.07,
+    "expected_fare": 3229.47998046875,
+    "deviation_pct": 124.28,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-03-10",
+    "route": "MAA-HYD",
+    "airline": "Air India",
+    "fare": 2575.6,
+    "expected_fare": 5977.830078125,
+    "deviation_pct": -56.91,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-03-11",
+    "route": "BOM-GOI",
+    "airline": "SpiceJet",
+    "fare": 1929.86,
+    "expected_fare": 3351.0,
+    "deviation_pct": -42.41,
+    "severity": "Low",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-03-15",
+    "route": "CCU-DEL",
+    "airline": "SpiceJet",
+    "fare": 12768.87,
+    "expected_fare": 5899.7001953125,
+    "deviation_pct": 116.43,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-03-17",
+    "route": "MAA-HYD",
+    "airline": "Air India",
+    "fare": 1452.69,
+    "expected_fare": 3274.550048828125,
+    "deviation_pct": -55.64,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-03-18",
+    "route": "HYD-BLR",
+    "airline": "Air India Express",
+    "fare": 11602.42,
+    "expected_fare": 4918.39990234375,
+    "deviation_pct": 135.9,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-03-18",
+    "route": "HYD-BOM",
+    "airline": "SpiceJet",
+    "fare": 2202.04,
+    "expected_fare": 3940.47998046875,
+    "deviation_pct": -44.12,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-03-21",
+    "route": "BLR-DEL",
+    "airline": "Air India Express",
+    "fare": 1937.25,
+    "expected_fare": 4915.72021484375,
+    "deviation_pct": -60.59,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-03-21",
+    "route": "CCU-DEL",
+    "airline": "Akasa Air",
+    "fare": 2572.7,
+    "expected_fare": 5822.93994140625,
+    "deviation_pct": -55.82,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-03-22",
+    "route": "BOM-GOI",
+    "airline": "IndiGo",
+    "fare": 1718.37,
+    "expected_fare": 3955.81005859375,
+    "deviation_pct": -56.56,
+    "severity": "High",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-03-23",
+    "route": "HYD-BLR",
+    "airline": "Air India",
+    "fare": 1931.99,
+    "expected_fare": 4114.93994140625,
+    "deviation_pct": -53.05,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-03-25",
+    "route": "HYD-DEL",
+    "airline": "Akasa Air",
+    "fare": 9733.29,
+    "expected_fare": 4854.97021484375,
+    "deviation_pct": 100.48,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-03-28",
+    "route": "BOM-GOI",
+    "airline": "Air India",
+    "fare": 8377.95,
+    "expected_fare": 4145.7099609375,
+    "deviation_pct": 102.09,
+    "severity": "Medium",
+    "is_true_anomaly": true
+  },
+  {
+    "date": "2026-03-29",
+    "route": "MAA-HYD",
+    "airline": "SpiceJet",
+    "fare": 9269.47,
+    "expected_fare": 4170.27978515625,
+    "deviation_pct": 122.27,
+    "severity": "High",
+    "is_true_anomaly": true
+  }
+]

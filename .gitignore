@@ -1,0 +1,13 @@
+# Virtual environment & Python
+squawk/pipeline/.venv/
+**/__pycache__/
+*.pyc
+
+# Node & Frontend build
+squawk/web/node_modules/
+squawk/web/dist/
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/

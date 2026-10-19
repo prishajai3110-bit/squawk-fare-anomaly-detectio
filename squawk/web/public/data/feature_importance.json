@@ -1,0 +1,78 @@
+[
+  {
+    "feature": "route_BOM-GOI",
+    "importance": 0.2059
+  },
+  {
+    "feature": "route_MAA-HYD",
+    "importance": 0.1674
+  },
+  {
+    "feature": "route_HYD-BLR",
+    "importance": 0.1408
+  },
+  {
+    "feature": "route_CCU-DEL",
+    "importance": 0.1038
+  },
+  {
+    "feature": "route_BLR-DEL",
+    "importance": 0.0775
+  },
+  {
+    "feature": "route_DEL-BOM",
+    "importance": 0.0704
+  },
+  {
+    "feature": "route_HYD-BOM",
+    "importance": 0.0699
+  },
+  {
+    "feature": "route_HYD-DEL",
+    "importance": 0.0433
+  },
+  {
+    "feature": "airline_Air India",
+    "importance": 0.0336
+  },
+  {
+    "feature": "days_to_departure",
+    "importance": 0.0327
+  },
+  {
+    "feature": "is_festival_window",
+    "importance": 0.0243
+  },
+  {
+    "feature": "airline_IndiGo",
+    "importance": 0.0089
+  },
+  {
+    "feature": "dep_dow",
+    "importance": 0.006
+  },
+  {
+    "feature": "stops",
+    "importance": 0.0056
+  },
+  {
+    "feature": "airline_Air India Express",
+    "importance": 0.0051
+  },
+  {
+    "feature": "airline_Akasa Air",
+    "importance": 0.0022
+  },
+  {
+    "feature": "month",
+    "importance": 0.001
+  },
+  {
+    "feature": "airline_SpiceJet",
+    "importance": 0.0008
+  },
+  {
+    "feature": "dep_hour",
+    "importance": 0.0008
+  }
+]

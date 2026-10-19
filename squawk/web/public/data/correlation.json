@@ -1,0 +1,346 @@
+{
+  "BLR-DEL": {
+    "latest_window": {
+      "start": "2026-03-16",
+      "end": "2026-03-29",
+      "matrix": {
+        "Air India": {
+          "Air India": 1.0,
+          "Air India Express": -0.268,
+          "Akasa Air": 0.465,
+          "IndiGo": 0.09,
+          "SpiceJet": 0.077
+        },
+        "Air India Express": {
+          "Air India": -0.268,
+          "Air India Express": 1.0,
+          "Akasa Air": -0.382,
+          "IndiGo": 0.09,
+          "SpiceJet": 0.265
+        },
+        "Akasa Air": {
+          "Air India": 0.465,
+          "Air India Express": -0.382,
+          "Akasa Air": 1.0,
+          "IndiGo": -0.419,
+          "SpiceJet": -0.686
+        },
+        "IndiGo": {
+          "Air India": 0.09,
+          "Air India Express": 0.09,
+          "Akasa Air": -0.419,
+          "IndiGo": 1.0,
+          "SpiceJet": 0.614
+        },
+        "SpiceJet": {
+          "Air India": 0.077,
+          "Air India Express": 0.265,
+          "Akasa Air": -0.686,
+          "IndiGo": 0.614,
+          "SpiceJet": 1.0
+        }
+      }
+    }
+  },
+  "BOM-GOI": {
+    "latest_window": {
+      "start": "2026-03-16",
+      "end": "2026-03-29",
+      "matrix": {
+        "Air India": {
+          "Air India": 1.0,
+          "Air India Express": 0.12,
+          "Akasa Air": 0.134,
+          "IndiGo": -0.036,
+          "SpiceJet": 0.552
+        },
+        "Air India Express": {
+          "Air India": 0.12,
+          "Air India Express": 1.0,
+          "Akasa Air": -0.574,
+          "IndiGo": 0.233,
+          "SpiceJet": -0.102
+        },
+        "Akasa Air": {
+          "Air India": 0.134,
+          "Air India Express": -0.574,
+          "Akasa Air": 1.0,
+          "IndiGo": -0.645,
+          "SpiceJet": 0.127
+        },
+        "IndiGo": {
+          "Air India": -0.036,
+          "Air India Express": 0.233,
+          "Akasa Air": -0.645,
+          "IndiGo": 1.0,
+          "SpiceJet": -0.01
+        },
+        "SpiceJet": {
+          "Air India": 0.552,
+          "Air India Express": -0.102,
+          "Akasa Air": 0.127,
+          "IndiGo": -0.01,
+          "SpiceJet": 1.0
+        }
+      }
+    }
+  },
+  "CCU-DEL": {
+    "latest_window": {
+      "start": "2026-03-16",
+      "end": "2026-03-29",
+      "matrix": {
+        "Air India": {
+          "Air India": 1.0,
+          "Air India Express": 0.17,
+          "Akasa Air": -0.329,
+          "IndiGo": -0.064,
+          "SpiceJet": -0.134
+        },
+        "Air India Express": {
+          "Air India": 0.17,
+          "Air India Express": 1.0,
+          "Akasa Air": 0.168,
+          "IndiGo": -0.319,
+          "SpiceJet": -0.187
+        },
+        "Akasa Air": {
+          "Air India": -0.329,
+          "Air India Express": 0.168,
+          "Akasa Air": 1.0,
+          "IndiGo": -0.632,
+          "SpiceJet": -0.252
+        },
+        "IndiGo": {
+          "Air India": -0.064,
+          "Air India Express": -0.319,
+          "Akasa Air": -0.632,
+          "IndiGo": 1.0,
+          "SpiceJet": 0.137
+        },
+        "SpiceJet": {
+          "Air India": -0.134,
+          "Air India Express": -0.187,
+          "Akasa Air": -0.252,
+          "IndiGo": 0.137,
+          "SpiceJet": 1.0
+        }
+      }
+    }
+  },
+  "DEL-BOM": {
+    "latest_window": {
+      "start": "2026-03-16",
+      "end": "2026-03-29",
+      "matrix": {
+        "Air India": {
+          "Air India": 1.0,
+          "Air India Express": -0.266,
+          "Akasa Air": -0.361,
+          "IndiGo": 0.179,
+          "SpiceJet": 0.407
+        },
+        "Air India Express": {
+          "Air India": -0.266,
+          "Air India Express": 1.0,
+          "Akasa Air": 0.109,
+          "IndiGo": 0.179,
+          "SpiceJet": 0.069
+        },
+        "Akasa Air": {
+          "Air India": -0.361,
+          "Air India Express": 0.109,
+          "Akasa Air": 1.0,
+          "IndiGo": 0.344,
+          "SpiceJet": 0.508
+        },
+        "IndiGo": {
+          "Air India": 0.179,
+          "Air India Express": 0.179,
+          "Akasa Air": 0.344,
+          "IndiGo": 1.0,
+          "SpiceJet": 0.689
+        },
+        "SpiceJet": {
+          "Air India": 0.407,
+          "Air India Express": 0.069,
+          "Akasa Air": 0.508,
+          "IndiGo": 0.689,
+          "SpiceJet": 1.0
+        }
+      }
+    }
+  },
+  "HYD-BLR": {
+    "latest_window": {
+      "start": "2026-03-16",
+      "end": "2026-03-29",
+      "matrix": {
+        "Air India": {
+          "Air India": 1.0,
+          "Air India Express": 0.031,
+          "Akasa Air": 0.092,
+          "IndiGo": -0.231,
+          "SpiceJet": -0.116
+        },
+        "Air India Express": {
+          "Air India": 0.031,
+          "Air India Express": 1.0,
+          "Akasa Air": -0.008,
+          "IndiGo": 0.348,
+          "SpiceJet": 0.052
+        },
+        "Akasa Air": {
+          "Air India": 0.092,
+          "Air India Express": -0.008,
+          "Akasa Air": 1.0,
+          "IndiGo": -0.225,
+          "SpiceJet": 0.125
+        },
+        "IndiGo": {
+          "Air India": -0.231,
+          "Air India Express": 0.348,
+          "Akasa Air": -0.225,
+          "IndiGo": 1.0,
+          "SpiceJet": -0.121
+        },
+        "SpiceJet": {
+          "Air India": -0.116,
+          "Air India Express": 0.052,
+          "Akasa Air": 0.125,
+          "IndiGo": -0.121,
+          "SpiceJet": 1.0
+        }
+      }
+    }
+  },
+  "HYD-BOM": {
+    "latest_window": {
+      "start": "2026-03-16",
+      "end": "2026-03-29",
+      "matrix": {
+        "Air India": {
+          "Air India": 1.0,
+          "Air India Express": -0.273,
+          "Akasa Air": 0.267,
+          "IndiGo": -0.08,
+          "SpiceJet": 0.375
+        },
+        "Air India Express": {
+          "Air India": -0.273,
+          "Air India Express": 1.0,
+          "Akasa Air": -0.284,
+          "IndiGo": 0.102,
+          "SpiceJet": 0.211
+        },
+        "Akasa Air": {
+          "Air India": 0.267,
+          "Air India Express": -0.284,
+          "Akasa Air": 1.0,
+          "IndiGo": -0.479,
+          "SpiceJet": 0.009
+        },
+        "IndiGo": {
+          "Air India": -0.08,
+          "Air India Express": 0.102,
+          "Akasa Air": -0.479,
+          "IndiGo": 1.0,
+          "SpiceJet": 0.386
+        },
+        "SpiceJet": {
+          "Air India": 0.375,
+          "Air India Express": 0.211,
+          "Akasa Air": 0.009,
+          "IndiGo": 0.386,
+          "SpiceJet": 1.0
+        }
+      }
+    }
+  },
+  "HYD-DEL": {
+    "latest_window": {
+      "start": "2026-03-16",
+      "end": "2026-03-29",
+      "matrix": {
+        "Air India": {
+          "Air India": 1.0,
+          "Air India Express": 0.129,
+          "Akasa Air": 0.439,
+          "IndiGo": -0.122,
+          "SpiceJet": 0.294
+        },
+        "Air India Express": {
+          "Air India": 0.129,
+          "Air India Express": 1.0,
+          "Akasa Air": 0.2,
+          "IndiGo": -0.416,
+          "SpiceJet": -0.032
+        },
+        "Akasa Air": {
+          "Air India": 0.439,
+          "Air India Express": 0.2,
+          "Akasa Air": 1.0,
+          "IndiGo": 0.237,
+          "SpiceJet": 0.351
+        },
+        "IndiGo": {
+          "Air India": -0.122,
+          "Air India Express": -0.416,
+          "Akasa Air": 0.237,
+          "IndiGo": 1.0,
+          "SpiceJet": -0.235
+        },
+        "SpiceJet": {
+          "Air India": 0.294,
+          "Air India Express": -0.032,
+          "Akasa Air": 0.351,
+          "IndiGo": -0.235,
+          "SpiceJet": 1.0
+        }
+      }
+    }
+  },
+  "MAA-HYD": {
+    "latest_window": {
+      "start": "2026-03-16",
+      "end": "2026-03-29",
+      "matrix": {
+        "Air India": {
+          "Air India": 1.0,
+          "Air India Express": 0.303,
+          "Akasa Air": -0.187,
+          "IndiGo": -0.498,
+          "SpiceJet": 0.202
+        },
+        "Air India Express": {
+          "Air India": 0.303,
+          "Air India Express": 1.0,
+          "Akasa Air": -0.171,
+          "IndiGo": -0.574,
+          "SpiceJet": -0.07
+        },
+        "Akasa Air": {
+          "Air India": -0.187,
+          "Air India Express": -0.171,
+          "Akasa Air": 1.0,
+          "IndiGo": -0.219,
+          "SpiceJet": -0.134
+        },
+        "IndiGo": {
+          "Air India": -0.498,
+          "Air India Express": -0.574,
+          "Akasa Air": -0.219,
+          "IndiGo": 1.0,
+          "SpiceJet": 0.182
+        },
+        "SpiceJet": {
+          "Air India": 0.202,
+          "Air India Express": -0.07,
+          "Akasa Air": -0.134,
+          "IndiGo": 0.182,
+          "SpiceJet": 1.0
+        }
+      }
+    }
+  }
+}

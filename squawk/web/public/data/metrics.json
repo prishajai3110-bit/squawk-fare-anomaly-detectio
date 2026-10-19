@@ -1,0 +1,33 @@
+{
+  "data_is_synthetic": true,
+  "total_observations": 7200,
+  "fare_model": {
+    "model_type": "XGBRegressor",
+    "test_split_ratio": 0.3,
+    "split_date": "2026-02-03",
+    "test_mae_inr": 342.73,
+    "test_mape_pct": 6.58
+  },
+  "individual_anomaly_detection": {
+    "algorithm": "IsolationForest",
+    "contamination_parameter": 0.02,
+    "precision": 0.9514,
+    "recall": 0.9514,
+    "f1_score": 0.9514,
+    "confusion_matrix": {
+      "true_negative": 7049,
+      "false_positive": 7,
+      "false_negative": 7,
+      "true_positive": 137
+    }
+  },
+  "coordination_detection": {
+    "methodology": "Multi-Airline Residual Shift Co-occurrence",
+    "ground_truth_events": 11,
+    "detected_events": 149,
+    "true_positive_events": 11,
+    "false_positive_events": 137,
+    "event_precision": 0.0738,
+    "event_recall": 1.0
+  }
+}

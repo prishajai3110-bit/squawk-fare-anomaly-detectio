@@ -1,0 +1,50 @@
+[
+  {
+    "route": "BLR-DEL",
+    "avg_fare_inr": 6853.6,
+    "anomaly_count": 16,
+    "coordination_events_detected": 19
+  },
+  {
+    "route": "BOM-GOI",
+    "avg_fare_inr": 3966.16,
+    "anomaly_count": 23,
+    "coordination_events_detected": 19
+  },
+  {
+    "route": "CCU-DEL",
+    "avg_fare_inr": 7375.14,
+    "anomaly_count": 22,
+    "coordination_events_detected": 19
+  },
+  {
+    "route": "DEL-BOM",
+    "avg_fare_inr": 6441.25,
+    "anomaly_count": 12,
+    "coordination_events_detected": 19
+  },
+  {
+    "route": "HYD-BLR",
+    "avg_fare_inr": 3829.88,
+    "anomaly_count": 17,
+    "coordination_events_detected": 18
+  },
+  {
+    "route": "HYD-BOM",
+    "avg_fare_inr": 4852.29,
+    "anomaly_count": 18,
+    "coordination_events_detected": 18
+  },
+  {
+    "route": "HYD-DEL",
+    "avg_fare_inr": 6170.63,
+    "anomaly_count": 16,
+    "coordination_events_detected": 21
+  },
+  {
+    "route": "MAA-HYD",
+    "avg_fare_inr": 3743.2,
+    "anomaly_count": 20,
+    "coordination_events_detected": 16
+  }
+]
